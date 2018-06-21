@@ -14,11 +14,11 @@ Go to this Directory and start RoboJump.exe
 
 **Planning**
 
-The planning can be found under planning/
+The planning can be found under Planning/
 
 **Tests**
 
-The Test files can be found under Test/
+The Test files can be found under Tests/
 
 - TestSpecification
 - TestRuns
