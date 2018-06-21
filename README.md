@@ -14,7 +14,7 @@ choose a Destination Folder and press install.
 
 **Planning**
 
-The planning can be found under Documents/planning.xlsx
+The planning can be found under planning/
 
 **Tests**
 
