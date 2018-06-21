@@ -118,7 +118,7 @@ Shop:
 
 ## **Manual**
 
-A manual can be found in the install-directory of RoboJump under Documentation
+A manual can be found in the install-directory of RoboJump under help page
 
 
 
