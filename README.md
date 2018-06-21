@@ -126,7 +126,7 @@ A manual can be found in the install-directory of RoboJump under Documentation
 
 
 
-**License**
+## **License**
 
 MIT
 
