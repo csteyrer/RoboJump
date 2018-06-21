@@ -7,7 +7,7 @@
 
 ## **Getting Started**
 
-## To install Robo Jump simply open RoboJumpInstaller.exe,
+To install Robo Jump simply open RoboJumpInstaller.exe,
 choose a Destination Folder and press install.
 
 ## Go to this Directory and start RoboJump.exe
