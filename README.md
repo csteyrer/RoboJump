@@ -146,7 +146,7 @@ Music License: Can be found under MusicLicenses
 
 Texture License: https://www.gameart2d.com/license.html
 
-**System Requirements**
+## **System Requirements**
 
 Minimum:
 
