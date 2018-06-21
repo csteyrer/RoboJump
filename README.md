@@ -20,9 +20,9 @@ The planning can be found under Documents/planning.xlsx
 
 The Test files can be found under Test/
 
-- xlsx
-- xlsx
-- xlsx
+- TestSpecification
+- TestRuns
+- TestReport
 
 ## **Feature List**
 
