@@ -26,7 +26,7 @@ The Test files can be found under Tests/
 
 **Source**
 
-Can be found on the release page.
+Can be found on the release page. (src.zip)
 
 ## **Feature List**
 
