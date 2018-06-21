@@ -155,5 +155,5 @@ Minimum:
 | GPU: | DX10 (Shader-Modell 4.0) |
 | CPU: | SSE instruction set support. |
 | Free Space: | 1GB |
-| RAM: | 2G |
+| RAM: | 2GB |
 
