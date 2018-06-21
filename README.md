@@ -24,6 +24,10 @@ The Test files can be found under Tests/
 - TestRuns
 - TestReport
 
+**Source**
+
+Can be found on the release page.
+
 ## **Feature List**
 
 Main Menu:
